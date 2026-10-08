@@ -1,0 +1,17 @@
+{
+  "name": "Synthetic Demo Region \u2014 Uttarakhand (Not Real Data)",
+  "bbox": {
+    "min_lat": 30.3,
+    "max_lat": 30.6,
+    "min_lng": 78.8,
+    "max_lng": 79.2
+  },
+  "n_landslides": 80,
+  "n_nonlandslides": 120,
+  "n_features": 18,
+  "csv_path": "data\\demo\\demo_training_data.csv",
+  "inventory_path": "data\\demo\\demo_landslide_inventory.csv",
+  "geojson_path": "data\\demo\\demo_study_area.geojson",
+  "is_synthetic": true,
+  "warning": "Synthetic Demo Dataset \u2014 not for scientific conclusions"
+}

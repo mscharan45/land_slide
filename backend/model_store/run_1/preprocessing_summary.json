@@ -1,0 +1,13 @@
+{
+  "total_samples_before": 200,
+  "total_samples_after": 200,
+  "missing_values_removed": 0,
+  "duplicate_rows_removed": 0,
+  "features_before": 18,
+  "features_after": 18,
+  "features_dropped": [],
+  "class_distribution": {
+    "landslide": 80,
+    "non_landslide": 120
+  }
+}

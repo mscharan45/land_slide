@@ -1,0 +1,1 @@
+{"features": ["elevation", "slope", "aspect", "plan_curvature", "tpi", "tri", "twi", "spi", "distance_to_rivers", "annual_rainfall", "soil_type", "ndvi", "land_cover", "distance_to_roads", "distance_to_faults", "distance_to_settlements", "lithology", "slope_length"]}
